@@ -12,10 +12,10 @@ The order in which the tracked pins are stored is by convention:
 
 1. Right pin
 2. Left pin
-3. Bottom pin
-4. Top pin
-5. Bottom clamp (if present)
-6. Top clamp (if present)
+3. Bottom pin (if present)
+4. Top pin (if present)
+5. Bottom clamp 
+6. Top clamp 
 
 Additionally, two properties of the sample are stored in their own record, and are the same across all videos in a file:
 
@@ -27,6 +27,7 @@ Additionally, two properties of the sample are stored in their own record, and a
 
 Data Note:
 
-Video 2 of Pearlized Cotton Rib Y starts tracking at a late point, need to divide by initial length from another video such as video 1
+Pearlized Cotton Rib Y only has 4 points to track: one at each clamp and the two transverse points
+Each of the glove prototype samples only has 1 experimental video and 4 points to track: one at each clamp and the two transverse points
 
 
