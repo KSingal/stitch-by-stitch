@@ -26,7 +26,8 @@ Additionally, two properties of the sample are stored in their own record, and a
 
 
 Data Note:
-
+All of the pearlized cotton and acrylic samples have 6 points tracked except for pearlized cotton Rib y which only has 4 (does not include the top and bottom pin). 
+All of the glove prototypes samples have 4 points tracked (no top or bottom pin). 
 
 
 
